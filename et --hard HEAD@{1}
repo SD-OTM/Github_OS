@@ -1,0 +1,66 @@
+[33mfcdcd00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: reset: moving to HEAD^
+[33mf316ee1[m HEAD@{1}: reset: moving to HEAD^
+[33m741d724[m HEAD@{2}: commit: added feature2
+[33mf316ee1[m HEAD@{3}: commit: added feature1
+[33mfcdcd00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{4}: commit: stash
+[33ma075e8b[m HEAD@{5}: reset: moving to HEAD
+[33ma075e8b[m HEAD@{6}: commit: Save current changes
+[33m0fc4f5f[m HEAD@{7}: commit (merge): fix conflict
+[33mea390e7[m HEAD@{8}: commit: Save current changes
+[33m3a9551f[m HEAD@{9}: reset: moving to HEAD
+[33m3a9551f[m HEAD@{10}: commit (amend): New commit messages using amend
+[33m6bb9592[m HEAD@{11}: commit (amend): New commit messages using amend
+[33m1f1716d[m HEAD@{12}: commit (amend): New commit messages using amend
+[33mf2df7b4[m HEAD@{13}: commit (amend): New commit messages
+[33mbf718d3[m HEAD@{14}: commit (amend): New commit messages
+[33m6bdd09b[m HEAD@{15}: commit (amend): New commit message
+[33m0d7442d[m HEAD@{16}: revert: Revert "first commit"
+[33m714c10b[m HEAD@{17}: revert: Revert " second commit"
+[33m1d8d9e3[m HEAD@{18}: commit: second commit
+[33mc02cdb3[m HEAD@{19}: commit: first commit
+[33m5ee43f2[m HEAD@{20}: reset: moving to 5ee43f2bc88a263c53d8db5ff7776411313ff06c
+[33m66ad631[m HEAD@{21}: revert: Revert "Revert "Merge pull request #1 from SD-OTM/feature-remote""
+[33m85c05c9[m HEAD@{22}: revert: Revert "revert test"
+[33m28c96d7[m HEAD@{23}: revert: Revert "Revert "revert test""
+[33m0e0314f[m HEAD@{24}: revert: Revert "revert test"
+[33ma068e76[m HEAD@{25}: commit: revert test
+[33mffa9eef[m HEAD@{26}: revert: Revert "Merge pull request #1 from SD-OTM/feature-remote"
+[33m5ee43f2[m HEAD@{27}: pull: Fast-forward
+[33m5a521ca[m HEAD@{28}: reset: moving to HEAD~1
+[33m998be4c[m HEAD@{29}: reset: moving to HEAD~1
+[33mf30d8a6[m HEAD@{30}: reset: moving to HEAD~1
+[33m54a51e3[m HEAD@{31}: reset: moving to HEAD~1
+[33m5ee43f2[m HEAD@{32}: commit: Add some changesss
+[33m54a51e3[m HEAD@{33}: reset: moving to HEAD~1
+[33m1535167[m HEAD@{34}: commit: Add some changess
+[33m54a51e3[m HEAD@{35}: commit: Add some changes
+[33mf30d8a6[m HEAD@{36}: commit: done
+[33m998be4c[m HEAD@{37}: commit: add some changes
+[33m5a521ca[m HEAD@{38}: checkout: moving from master to master
+[33m5a521ca[m HEAD@{39}: pull origin master: Fast-forward
+[33mfb761f2[m HEAD@{40}: checkout: moving from feature-remote to master
+[33m4fc4b8a[m HEAD@{41}: commit: Add feature_file.txt in feature-remote branch
+[33mfb761f2[m HEAD@{42}: checkout: moving from master to feature-remote
+[33mfb761f2[m HEAD@{43}: pull origin master: Fast-forward
+[33m3eba36c[m HEAD@{44}: pull origin master: Fast-forward
+[33m9de5827[m HEAD@{45}: commit: Resolved merge conflict in example.txt
+[33mc25efb0[m HEAD@{46}: commit (merge): Resolved merge conflict in example.txt
+[33m0aa405f[m HEAD@{47}: checkout: moving from master to master
+[33m0aa405f[m HEAD@{48}: commit: changed a line in example.txt to make a conflict in master
+[33mf054a79[m[33m ([m[1;32mmerge-branch[m[33m)[m HEAD@{49}: checkout: moving from conflit-branch to master
+[33m590c753[m HEAD@{50}: commit: changed a line in example.txt to make a conflict
+[33mf054a79[m[33m ([m[1;32mmerge-branch[m[33m)[m HEAD@{51}: checkout: moving from master to conflit-branch
+[33mf054a79[m[33m ([m[1;32mmerge-branch[m[33m)[m HEAD@{52}: checkout: moving from master to master
+[33mf054a79[m[33m ([m[1;32mmerge-branch[m[33m)[m HEAD@{53}: merge merge-branch: Fast-forward
+[33mdec017e[m HEAD@{54}: checkout: moving from merge-branch to master
+[33mf054a79[m[33m ([m[1;32mmerge-branch[m[33m)[m HEAD@{55}: commit: added changes in merge-branch
+[33mdec017e[m HEAD@{56}: checkout: moving from master to merge-branch
+[33mdec017e[m HEAD@{57}: checkout: moving from feature-branch to master
+[33mdec017e[m HEAD@{58}: checkout: moving from feature-branch to feature-branch
+[33mdec017e[m HEAD@{59}: checkout: moving from master to feature-branch
+[33mdec017e[m HEAD@{60}: checkout: moving from 1bd120d21e2c3144f302b6910c0d1286ccc8a151 to master
+[33m1bd120d[m HEAD@{61}: checkout: moving from master to 1bd120d21e2c3144f302b6910c0d1286ccc8a151
+[33mdec017e[m HEAD@{62}: commit: mn salam l slaaa o slaam
+[33m79eb265[m HEAD@{63}: commit: nxt step
+[33m1bd120d[m HEAD@{64}: commit: add file1
+[33m5ae433a[m HEAD@{65}: commit (initial): Initial commit
